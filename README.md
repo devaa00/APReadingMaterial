@@ -3,57 +3,77 @@
 **File: Weighing Basics**
 
 Learning objectives
+
 ● Understand the role of weighing and integrate it into your
 speeches
+
 ● Distinguish between principled (categorical) vs pragmatic
 (consequentialist) weighing
+
 ● Analyse and apply different weighing metrics
 Try a popular clash: Would you kill one person to save five?
 
 Pragmatics vs Principles
+
 Pragmatics: focus on utility, that is, something is good because it leads to the best
 outcomes. -> Max happiness for max people
+
 ● But what are the best outcomes? Most preferences fulfilled? Most urgent
 preferences fulfilled? Where is the maximum happiness?
+
 ● Trolley problem: killing 1 person is the ethical choice because it leads to the best
 possible outcome in this scenario -> saving 5 lives
+
 Principles: focus on the moral value of an argument, based on rights, duties and moral
 obligations.
+
 ● Individuals are an end in and of themselves, never means to an end
+
 ● Some things are worth defending regardless of the consequences
+
 ● Trolley: problem killing 1 man, even if to save 5, still is killing 1 man at the end of
 the day. Blood is on ur hands regardless
 
 In debating-land, where we all live
+
 ● Utility almost always wins. Most debates occur within a solely utilitarian paradigm,
 where consequence is the only metric of value.
+
 ● That doesn’t mean principled pushes should be thrown out of the window, but that
 they are inherently tied to how they help the stakeholders you choose to base your
 case around.
+
 ● Even if you are running principled arguments, you need to prove how the outcome
 of upholding your value ultimately accrues better impacts.
 
 TH, as the US, should increase humanitarian aid to the
 countries undergoing crises.
+
 Principled argument:
+
 ● USA is a wealthy country, which
 has more than it needs.
+
 ● People in countries undergoing
 crises are suffering from war,
 economic disruption, poverty and
 famine.
+
 ● To allow people to die
 unnecessarily while we can afford
 to give them what we need is
 simply immoral.
 
 Pragmatic argument:
+
 ● Without aid, countries slide into
 chaos.
+
 ● Chaos leaves them liable to
 takeover by dictators and
 extremists which may be hostile to
 the West.
+
 ● With aid, they can be encouraged
 to be stable liberal democracies
 which will not threaten the US, and
@@ -62,29 +82,37 @@ with which we can trade.
 What is weighing?
 
 ● Process of comparing the relative importance of arguments
+
 ● It determines what should influence the judge more
 
 How do you weigh?
 
 ● By establishing certain metrics- yardstick- to quantify the impact of your arguments
+
 ● Simply put, you measure which side’s impacts are bigger, faster or more probable.
 
 Core weighing metrics : TIMEFRAME
 
 Long term impacts:
+
 ● Case looks more farsighted,
+
 ● Shows the effects on society in the
 long run and for perhaps several
 generations,
+
 ● Shows the effect and implications on
 the working of other institutions and
 social structures (govt, education,
 cultural dynamics)
 
 Short term impacts:
+
 ● Establishes urgency,
+
 ● More relevant in showcasing matters
 of life and death,
+
 ● In cases of war, disease, poverty and
 marginalisation of groups, short term
 impacts become especially important.
@@ -92,12 +120,18 @@ impacts become especially important.
 Core weighing metrics : SCOPE & SCALE
 
 Scale: how much
+
 ● The strength of an impact (be it
 negative/positive)
+
 ● Rate these from 0 to 10
+
 ○ You stub your toe in a corner
+
 ○ Nuclear war happens
+
 ○ A cure for cancer is found
+
 ○ The power supply of a country is
 shut down for 6 hours
 
@@ -105,7 +139,9 @@ The more serious it is, the more important
 it is to solve.
 
 Scope: how many
+
 ● The quantity of people affected
+
 ● Your case could have strong impacts,
 but if it only helps 10 people, it really
 isn’t helping anyone at all.
@@ -113,55 +149,81 @@ isn’t helping anyone at all.
 Core weighing metrics: LIKELIHOOD
 
 ● Which side’s impacts are likelier or more probable?
+
 ● Remember, AP arguments run on assumptions.
+
 ● So, what is likelier to happen will inherently be more convincing. And more
 important to work towards.
+
 ● Rate these from 0 to 10:
+
 ○ Someone somewhere wakes up with a headache.
+
 ○ The sun explodes.
+
 ○ The gov passes a law giving everyone 5000 inr.
+
 
 THBT developing countries should prioritise economic
 growth over climate protection. GOV
+
 Framing: poverty is a present, deadly crisis. Economic growth is the path to education,
 health, equity and innovation.
+
 ● Growth enables human development. It reduces infant mortality, increases life
 expectancy and improves literacy. Clean energy and sustainability are only
 possible after hitting developmental benchmarks.
+
 ● Green standards are colonial and hypocritical. The Global North pollutes for
 200 years and now punishes developing countries by creating unjust barriers for
 industrialisation.
+
 ● Energy needs are immediate. Millions lack electricity and cooking fuel. Fossil
 fuels remain the cheapest option for energy access in the short term.
 
 THBT developing countries should prioritise economic
 growth over climate protection. OPP
+
 Framing: environmental destruction creates poverty and suffering. It disproportionately
 affects the global south. Sustainability is not a luxury- it is a necessity for survival.
+
 ● Climate change is a poverty multiplier. Developing countries face the most
 severe consequences (floods, crop failure, disease).
+
 ● Intergenerational responsibility. It’s unjust to destroy the planet, knowing future
 generations will suffer.
+
 ● Global responsibility. The planet is shared. Everyone, including developing
 nations, has an ethical stake in its preservation.
 
 Weighing Breakdown: Analyse the impacts and weigh
 what is applicable, and more relevant.
+
 METRIC GOV OPP
+
 TIMEFRAME
+
 SCOPE
+
 SCALE
+
 PROBABILITY
+
 PRINCIPLED
+
 
 Weighing Questions
 
 ● Should the rights of future people outweigh the needs of the living poor?
+
 ● Is agency and right to self-development more important than external
 responsibility?
+
 ● Can developing countries morally justify pollution if it ensures survival?
+
 ● If both paths involve harms, which harm is more justifiable? What trade off are you
 willing to make?
+
 ● Does a nation’s historical trajectory (colonisation) affect how we weigh its
 contemporary actions?
 
